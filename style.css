@@ -43,7 +43,7 @@ body {
 }
 
 .logo {
-  width: 50px;
+  width: auto;
   height: 50px;
 }
 
@@ -236,4 +236,5 @@ footer {
   color: #d0d0d0;
   line-height: 1.8;
 }
+
 
