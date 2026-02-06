@@ -44,7 +44,7 @@ body {
 
 .logo {
   width: auto;
-  height: 50px;
+  height: 100px;
 }
 
 .nav-links {
@@ -236,5 +236,6 @@ footer {
   color: #d0d0d0;
   line-height: 1.8;
 }
+
 
 
